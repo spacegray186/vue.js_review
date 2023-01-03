@@ -54,7 +54,7 @@ export default {
       this.selectedDongList = this.dongList.filter(dong => dong.cityCode === this.selectedCity)
 
       // alert(this.selectedDongList)
-      //예) { cityCode: '064', dongCode: '1', dongTitle: '제주 1동' }
+      // 예) { cityCode: '064', dongCode: '1', dongTitle: '제주 1동' }
       //    { cityCode: '064', dongCode: '2', dongTitle: '제주 2동' }
     }
   }

@@ -7,6 +7,7 @@
     <router-link to="/databinding/html">Html</router-link> |
     <router-link to="/databinding/input">Input</router-link> |
     <router-link to="/event/click">Click</router-link> |
+    <router-link to="/memolist">Memo</router-link>
   </nav>
   <router-view/>
 </template>
